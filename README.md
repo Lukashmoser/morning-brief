@@ -1,2 +1,2 @@
-# morning-brief
-Instructions for and archive of my custom morning briefs.
+# Morning Brief Archive
+Archive of my custom morning briefs.
